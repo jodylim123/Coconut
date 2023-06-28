@@ -35,7 +35,7 @@ Scientifically known as *Cocos nucifera*, the coconut is from the <span eid="Q14
        fit="contain">   
 
 ## Taking Root: A Coastal Plantation Crop
-Coconut was a popular plantation crop in the 19th century and brought a considerable amount of revenue for colonial Singapore. In 1849, coconuts had the second highest acreage—of 2,658—amongst Singapore’s agricultural produce.  In the 1900s, a coconut cultivation was encouraged as Straits Settlement governmental policy mandated the inter-planting of ‘permanent’ crops, like coconut and rubber, for all land grants for pepper and gambier plantations.  British resident <span eid="Q1352013">John Crawfurd</span> deemed the climate in Singapore to be well adapted for coconut plantations, which spurred the industry’s growth.  The expansion of coconut plantations transformed the ecological landscape, devastating coastal forests along the southeast coast of Singapore. 
+Coconut was a popular plantation crop in the 19th century and brought a considerable amount of revenue for colonial Singapore. In 1849, coconuts had the second highest acreage—of 2,658—amongst Singapore’s agricultural produce.  In the 1900s, a coconut cultivation was encouraged as Straits Settlement governmental policy mandated the inter-planting of ‘permanent’ crops, like coconut and rubber, for all land grants for pepper and gambier plantations.  British resident John Crawfurd deemed the climate in Singapore to be well adapted for coconut plantations, which spurred the industry’s growth.  The expansion of coconut plantations transformed the ecological landscape, devastating coastal forests along the southeast coast of Singapore. 
 
 test test
 
