@@ -12,8 +12,17 @@ Almost every part of the coconut is eaten in Singapore. Coconut milk, a liquid e
   url="https://upload.wikimedia.org/wikipedia/commons/d/d0/Nasi_lemak_on_banana_leaf.jpg"
        title="Nasi lemak on banana leaf" 
        license="CC BY-SA 4.0"
-        fit="contain">
-       
+       fit="contain">
+ <param ve-image 
+       url="https://upload.wikimedia.org/wikipedia/commons/8/8f/Lodeh.jpg"
+       title="Sayur lodeh" 
+       license="CC BY-SA 4.0"
+       fit="contain">
+ <param ve-image 
+       url="https://upload.wikimedia.org/wikipedia/commons/f/f1/Klepon_Side_View.jpg"
+       title="Ondeh ondeh" 
+       license="CC BY-SA 4.0"
+       fit="contain">             
 
 
 
