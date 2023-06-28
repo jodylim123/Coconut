@@ -1,7 +1,7 @@
 <param ve-config 
        title="Coconut: Beyond the Edible"
        author="Jody Lim"
-       banner="https://upload.wikimedia.org/wikipedia/commons/9/97/Coconut_trees_and_hut_in_Singapore%2C_photographed_February_1969_%C3%97_July_1971.jpg"
+       banner="https://upload.wikimedia.org/wikipedia/commons/5/59/Siloso_Beach_15%2C_Sentosa%2C_Aug_06.JPG"
        layout="vertical">
        
 ## The Coconut Tree Today
