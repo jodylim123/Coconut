@@ -1,11 +1,9 @@
 <param ve-config 
        title="Coconut: Beyond the Edible"
        author="Jody Lim"
-       banner="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Blue_australian_parakeet.jpg/640px-Blue_australian_parakeet.jpg"
+       banner="https://upload.wikimedia.org/wikipedia/commons/9/97/Coconut_trees_and_hut_in_Singapore%2C_photographed_February_1969_%C3%97_July_1971.jpg"
        layout="vertical">
        
-For reference, first open the [Juncture user guide](https://github.com/JSTOR-Labs/juncture/wiki/visual-essay-tags) in a new tab. Then, go ahead and enter your essay title in the "title" field above, and your name as you'd like it to appear in "author". For the banner image, you can pick anything you already have permissions to use. The image will be automatically scaled to fit the field (or you can crop/create an image 1200 by 400 pixels).
-
 ## The Coconut Tree Today
 Almost every part of the coconut is eaten in Singapore. Coconut milk, a liquid extracted from grated flesh of mature coconuts, is used in cooking <span eid="Q1420553">*nasi lemak*</span> and <span eid="Q4208242">*sayur lodeh*</span>. <span eid="Q30587639">*Gula melaka*</span>, made from boiling coconut flower sap, flavours many peranakan kueh, like <span eid="Q5262436">*ondeh ondeh* </span>.  In hawker centres, one can easily buy a whole coconut to drink its refreshing coconut water. Beyond just its culinary uses, coconuts have floated alongside Singapore’s history for a long time. 
 <param ve-image 
@@ -25,6 +23,7 @@ Almost every part of the coconut is eaten in Singapore. Coconut milk, a liquid e
        fit="contain">             
 
 
+For reference, first open the [Juncture user guide](https://github.com/JSTOR-Labs/juncture/wiki/visual-essay-tags) in a new tab. Then, go ahead and enter your essay title in the "title" field above, and your name as you'd like it to appear in "author". For the banner image, you can pick anything you already have permissions to use. The image will be automatically scaled to fit the field (or you can crop/create an image 1200 by 400 pixels).
 
 ## This is a quick Markdown tutorial. Two hashes precede a heading. You can use these headings to divide sections of your essay.
 
