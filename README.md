@@ -29,9 +29,9 @@ Scientifically known as *Cocos nucifera*, the coconut is from the Arecaceae (Pal
        license="CC BY 2.0"
        fit="contain">    
  <param ve-image 
-       url="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Coconut_face_%282201055109%29.jpg/640px-Coconut_face_%282201055109%29.jpg"
+       url="https://upload.wikimedia.org/wikipedia/commons/3/32/Cocos_nucifera_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-187.jpg"
        title="Cocos nucifera" 
-       license="No Known Copyright"
+       license="Public Domain"
        fit="contain">   
 
 
