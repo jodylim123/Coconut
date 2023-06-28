@@ -22,6 +22,19 @@ Almost every part of the coconut is eaten in Singapore. Coconut milk, a liquid e
        license="CC BY-SA 4.0"
        fit="contain">             
 
+Scientifically known as *Cocos nucifera*, the coconut is from the Arecaceae (Palmae) family.  “Cocos” comes from the Spanish and Portuguse “coco”, or grinning or grimacing face, which the three indents at the base of a coconut’s shell resemble.  It was taxonomized in 1753 by Swedish botanist Carl Linnaeus.  In Singapore, it is called *kelapa* in Malay and *ye zi* (椰子) or *ke ke ye zi* (可可椰子) in Chinese.  It is a solitary coastal palm that is fast-growing and spans up to 30m in height.  The coconut is native to the Western Pacific, but is considered naturalised in Singapore, where it can grow without human intervention.  While coconuts likely arrived in Singapore long before the 19th century, coconut cultivation intensified during this period, significantly altering physical and economic landscapes.
+ <param ve-image 
+       url="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Coconut_face_%282201055109%29.jpg/640px-Coconut_face_%282201055109%29.jpg"
+       title="Coconut face" 
+       license="CC BY 2.0"
+       fit="contain">    
+ <param ve-image 
+       url="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Coconut_face_%282201055109%29.jpg/640px-Coconut_face_%282201055109%29.jpg"
+       title="Cocos nucifera" 
+       license="No Known Copyright"
+       fit="contain">   
+
+
 
 For reference, first open the [Juncture user guide](https://github.com/JSTOR-Labs/juncture/wiki/visual-essay-tags) in a new tab. Then, go ahead and enter your essay title in the "title" field above, and your name as you'd like it to appear in "author". For the banner image, you can pick anything you already have permissions to use. The image will be automatically scaled to fit the field (or you can crop/create an image 1200 by 400 pixels).
 
