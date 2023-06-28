@@ -8,17 +8,17 @@
 Almost every part of the coconut is eaten in Singapore. Coconut milk, a liquid extracted from grated flesh of mature coconuts, is used in cooking <span eid="Q1420553">*nasi lemak*</span> and <span eid="Q4208242">*sayur lodeh*</span>. <span eid="Q30587639">*Gula melaka*</span>, made from boiling coconut flower sap, flavours many peranakan kueh, like <span eid="Q5262436">*ondeh ondeh* </span>.  In hawker centres, one can easily buy a whole coconut to drink its refreshing coconut water. Beyond just its culinary uses, coconuts have floated alongside Singapore’s history for a long time. 
 <param ve-image 
   url="https://upload.wikimedia.org/wikipedia/commons/d/d0/Nasi_lemak_on_banana_leaf.jpg"
-       title="Nasi lemak on banana leaf" 
+       label="Nasi lemak on banana leaf" 
        license="CC BY-SA 4.0"
        fit="contain">
  <param ve-image 
        url="https://upload.wikimedia.org/wikipedia/commons/8/8f/Lodeh.jpg"
-       title="Sayur lodeh" 
+       label="Sayur lodeh" 
        license="CC BY-SA 4.0"
        fit="contain">
  <param ve-image 
        url="https://upload.wikimedia.org/wikipedia/commons/f/f1/Klepon_Side_View.jpg"
-       title="Ondeh ondeh" 
+       label="Ondeh ondeh" 
        license="CC BY-SA 4.0"
        fit="contain">             
 
