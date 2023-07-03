@@ -1,4 +1,4 @@
-<param ve-config 
+![image](https://github.com/jodylim123/Coconut/assets/134259670/c77ab3c9-71de-4ad0-a9b7-3c8e42e01879)<param ve-config 
        title="Coconut: Beyond the Edible"
        author="Jody Lim"
        banner="https://upload.wikimedia.org/wikipedia/commons/5/59/Siloso_Beach_15%2C_Sentosa%2C_Aug_06.JPG"
@@ -47,6 +47,21 @@ These coastal coconut plantations were mainly owned by European and Chinese busi
  <param ve-iframe src="https://historicalmaps.yale-nus.edu.sg/catalog/bodleian-0035">
 
 The coconut industry was a land-heavy one. In a 1914 article titled “The Cost of Making Copra”, Mr L. C. Brown, a retired Inspector of Coconut Plantations outlined the necessary acreage that a coconut plantation should have to be more profitable. He stated “in my opinion the only saving you can look for on an estate of 2,000 acres or more, compared with one of 500, lies in the coat per acre for supervision and buildings, for the general expense of fencing, draining, maintenance, weeding, picking and the manufacture of copra would practically remain the same. An estate of 5,000 acres, however, might cause the planter to produce sufficient to feed a factory to produce sufficient to feed a factory to turn out oil, coir, and even to make rope, from which sources additional profits might certainly be looked for.” [^16] Thus, coconut cultivation required a large amount of land to be successful and profitable. 
+ <param ve-image 
+       url="https://upload.wikimedia.org/wikipedia/commons/f/f3/Coconut_and_oil.jpg"
+       title="Coconut Oil" 
+       attribution="Phu Thinh Co"
+       license="CC BY-SA 2.0">
+ <param ve-image 
+       url="https://upload.wikimedia.org/wikipedia/commons/7/77/Textielmuseum-cabinet-10.jpg"
+       title="Coconut Coir" 
+       attribution="Textielmuseum Tilburg"
+       license="CC BY-SA 4.0">
+ <param ve-image 
+       url="https://upload.wikimedia.org/wikipedia/commons/9/95/Coconut_fibre_rope.JPG"
+       title="Coconut Fibre Rope" 
+       attribution="StromBer"
+       license="Public Domain">
 
 Furthermore, it was immensely labour-intensive. Beyond “a European manager and assistant”, Brown recommended “a labour force of 180 to 200 coolies”, each working on five to six acres of land. [^17] Working in these plantations were people of all races – local Malay people, Chinese coolies, Indian labourers, and even Europeans who accepted low pay. [^18] [^19] Beyond the rich plantation owners, these coconut plantations could only run through the hard work of the labourers involved. 
 <param ve-image 
@@ -87,8 +102,28 @@ The use of coconut oil, however, was not without its dangers. On 19 August 1863,
 
 ## Grating Coconut Flesh: Processing Coconuts at Home
 Zooming in from an industrial scale, families in Singapore had culinary tools to process a coconut as well. To make the tough coconut into its food derivatives, a coconut grater is needed. In Southeast Asia, the coconut grater or kukur kelapa in Malay is made up of a stool with a grater attached extracts the coconut flesh from its shell. [^31] [^32] The National Museum of Singapore’s collection has several such coconut graters from the 1950s and 60s. Generally, the graters are made up of a stool on which the user can either straddle or sit side-saddle, to ensure good leverage for grating. [^33] Slightly convex rasps are also mounted on the wooden frame. [^34] The user sits facing the rasp and rubs a split coconut on the blade to shave the white flesh. [^35]
+ <param ve-image 
+       url="https://www.roots.gov.sg/CollectionImages/1107296.jpg"
+       title="Wooden folding-stool coconut grater" 
+       attribution= "Collection of National Museum of Singapore (pending)"
+	fit= "contain">
+ <param ve-image 
+       url="https://www.roots.gov.sg/CollectionImages/1073351.jpg"
+       title="Wooden step-foot coconut rasp" 
+       attribution= "Collection of National Museum of Singapore: Gift of Ang Yang Buay (pending)"
+	fit= "contain">
+  <param ve-image 
+       url="https://www.roots.gov.sg/CollectionImages/1046663.jpg"
+       title="Wooden straddle-stool coconut grater" 
+       attribution= "Collection of National Museum of Singapore (pending)"
+	fit= "contain">
 
 One could use the grated coconut flesh directly, in foods like *ondeh ondeh*, *kueh dadar*, or *putu piring*. [^36] Alternatively, coconut milk could be derived by adding water to the grated flesh to extract the milk. Coconut milk is an essential in Malay dishes such as *nasi lemak*, *rendang* and *lontong*. [^37]
+ <param ve-image 
+       url="https://upload.wikimedia.org/wikipedia/commons/2/28/The_making_of_coconut_milk_137_MKT_-_Instagram_Images_-_1080px_x_1080px6.jpg"
+       title="Making Coconut Milk" 
+       attribution="COYO Australia"
+       license="CC BY-SA 4.0">
 
 ## Breaking the Coconuts: A Hindu Marriage Tradition
 Beyond their culinary value, coconuts also figure into the history of Singaporean family life through their use in Hindu marriage ceremonies. The details and personal meanings of this practice are recorded in a number of oral history interviews at the National Archives of Singapore. 
