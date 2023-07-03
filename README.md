@@ -22,7 +22,7 @@ Almost every part of the coconut is eaten in Singapore. Coconut milk, a liquid e
        license="CC BY-SA 4.0"
        fit="contain">             
 
-Scientifically known as *Cocos nucifera*, the coconut is from the <span eid="Q14080">Arecaceae (Palmae) </span> family.[^1] “Cocos” comes from the Spanish and Portuguse “coco”, or grinning or grimacing face, which the three indents at the base of a coconut’s shell resemble.[^2] It was taxonomized in 1753 by Swedish botanist Carl Linnaeus.[^3] In Singapore, it is called *kelapa* in Malay and *ye zi* (椰子) or *ke ke ye zi* (可可椰子) in Chinese.[^4] It is a solitary coastal palm that is fast-growing and spans up to 30m in height.[^5] The coconut is native to the Western Pacific, but is considered naturalised in Singapore, where it can grow without human intervention.[^6] While coconuts likely arrived in Singapore long before the 19th century, coconut cultivation intensified during this period, significantly altering physical and economic landscapes.
+Scientifically known as *Cocos nucifera*, the coconut is from the <span eid="Q14080">Arecaceae (Palmae) </span> family. [^1] “Cocos” comes from the Spanish and Portuguse “coco”, or grinning or grimacing face, which the three indents at the base of a coconut’s shell resemble. [^2] It was taxonomized in 1753 by Swedish botanist Carl Linnaeus. [^3] In Singapore, it is called *kelapa* in Malay and *ye zi* (椰子) or *ke ke ye zi* (可可椰子) in Chinese. [^4] It is a solitary coastal palm that is fast-growing and spans up to 30m in height. [^5] The coconut is native to the Western Pacific, but is considered naturalised in Singapore, where it can grow without human intervention.[^6] While coconuts likely arrived in Singapore long before the 19th century, coconut cultivation intensified during this period, significantly altering physical and economic landscapes.
  <param ve-image 
        url="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Coconut_face_%282201055109%29.jpg/640px-Coconut_face_%282201055109%29.jpg"
        label="Coconut face" 
@@ -37,17 +37,23 @@ Scientifically known as *Cocos nucifera*, the coconut is from the <span eid="Q14
 ## Taking Root: A Coastal Plantation Crop
 Coconut was a popular plantation crop in the 19th century and brought a considerable amount of revenue for colonial Singapore. In 1849, coconuts had the second highest acreage—of 2,658—amongst Singapore’s agricultural produce. [^7] In the 1900s, a coconut cultivation was encouraged as Straits Settlement governmental policy mandated the inter-planting of ‘permanent’ crops, like coconut and rubber, for all land grants for pepper and gambier plantations. [^8] British resident <span eid="Q1352013">John Crawfurd</span> deemed the climate in Singapore to be well adapted for coconut plantations, which spurred the industry’s growth. [^9] The expansion of coconut plantations transformed the ecological landscape, devastating coastal forests along the southeast coast of Singapore. [^10]
  <param ve-image 
-       url="https://www.roots.gov.sg/CollectionImages/1168093.jpg"
-       label="The coconut plantation on the east coast" 
-       license="National Museum of Singapore (Pending)"
+       url="https://eservice.nlb.gov.sg/cms/image/e6f2d34e-da8c-42eb-958f-87b029ff3ef0.jpg"
+       label="Tanglin coconut plantation, 1920" 
+       license="All rights reserved. Lee Kip Lin and National Library Board, Singapore 2009. (pending)"
        fit="contain">   
+       
 
-These coastal coconut plantations were mainly owned by European and Chinese business owners. Chinese businessmen like Whampoa Hoo Ah Kay and Chew Joo Chiat had plantations in Tanjong Katong and the modern-day Joo Chiat area.[^11] [^12] European businessmen like Thomas Owen Crane had coconut estates in Geylang and Katong.[^13] In fact, Geylang used to be named Geylang Kelapa due to the sheer number of coconut palms planted in the area during the mid-19th century. [^14] The 1856 Commissioner of the police, Thomas Dunman also owned a large coconut plantation of 400 acres in Tanjong Pagar.[^15] The influence of coconut plantations and their wealthy owners is seen today in the form of street and neighbourhood names—like Crane Road, Joo Chiat, and Whampoa.
+These coastal coconut plantations were mainly owned by European and Chinese business owners. Chinese businessmen like Whampoa Hoo Ah Kay and Chew Joo Chiat had plantations in Tanjong Katong and the modern-day Joo Chiat area. [^11] [^12] European businessmen like Thomas Owen Crane had coconut estates in Geylang and Katong.[^13] In fact, Geylang used to be named Geylang Kelapa due to the sheer number of coconut palms planted in the area during the mid-19th century. [^14] The 1856 Commissioner of the police, Thomas Dunman also owned a large coconut plantation of 400 acres in Tanjong Pagar. [^15] The influence of coconut plantations and their wealthy owners is seen today in the form of street and neighbourhood names—like Crane Road, Joo Chiat, and Whampoa.
  <param ve-iframe src="https://historicalmaps.yale-nus.edu.sg/catalog/bodleian-0035">
 
 The coconut industry was a land-heavy one. In a 1914 article titled “The Cost of Making Copra”, Mr L. C. Brown, a retired Inspector of Coconut Plantations outlined the necessary acreage that a coconut plantation should have to be more profitable. He stated “in my opinion the only saving you can look for on an estate of 2,000 acres or more, compared with one of 500, lies in the coat per acre for supervision and buildings, for the general expense of fencing, draining, maintenance, weeding, picking and the manufacture of copra would practically remain the same. An estate of 5,000 acres, however, might cause the planter to produce sufficient to feed a factory to produce sufficient to feed a factory to turn out oil, coir, and even to make rope, from which sources additional profits might certainly be looked for.”  Thus, coconut cultivation required a large amount of land to be successful and profitable. 
 
 Furthermore, it was immensely labour-intensive. Beyond “a European manager and assistant”, Brown recommended “a labour force of 180 to 200 coolies”, each working on five to six acres of land.  Working in these plantations were people of all races – local Malay people, Chinese coolies, Indian labourers, and even Europeans who accepted low pay.    Beyond the rich plantation owners, these coconut plantations could only run through the hard work of the labourers involved. 
+<param ve-image 
+       url="https://www.roots.gov.sg/CollectionImages/1168093.jpg"
+       label="The coconut plantation on the east coast" 
+       license="National Museum of Singapore (Pending)"
+       fit="contain">   
 
 In Singapore, harvested coconuts were also processed into products including copra, the dried kernel of the coconut from which coconut oil is extracted, which became an attractive export around 1870.  In an oral history interview by Mr Kannusamy s/o Pakirisamy, he shared that he grew up near a copra factory “at River Valley Road near Ord Road” and that there was also a copra and coconut oil factory at Mohamed Sultan Road in the 1920s.  He also shared that the owner was Chinese.  At the time of the interview in 1983, both factories had closed down.  
 
@@ -88,7 +94,7 @@ For reference, first open the [Juncture user guide](https://github.com/JSTOR-Lab
 <param ve-compare curtain manifest="https://iiif.juncture-digital.org/wc:Betel_Piper_betle.jpg/manifest.json" fit="contain">
 <param ve-compare manifest="https://iiif.juncture-digital.org/wc:Piper_betle_Blanco1.12.jpg/manifest.json" fit="contain">
 
-This is how you add a footnote. [^1]
+
 
 [This is how you add a link](https://www.juncture-digital.org/KatherineMEnright/speciesstories/)
 
