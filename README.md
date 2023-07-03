@@ -1,4 +1,4 @@
-![image](https://github.com/jodylim123/Coconut/assets/134259670/c77ab3c9-71de-4ad0-a9b7-3c8e42e01879)<param ve-config 
+<param ve-config 
        title="Coconut: Beyond the Edible"
        author="Jody Lim"
        banner="https://upload.wikimedia.org/wikipedia/commons/5/59/Siloso_Beach_15%2C_Sentosa%2C_Aug_06.JPG"
