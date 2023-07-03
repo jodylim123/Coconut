@@ -161,6 +161,5 @@ Others are selectable using icons displayed in the top right margin of the parag
 <param ve-map center="Q334" zoom="11" prefer-geojson>
 
 # References
-
 [^1]: “[Cocos nucifera](https://www.nparks.gov.sg/florafaunaweb/flora/5/6/5618),” NParks, last modified August 20, 2021.
 [^2]:  “Coconut,” Online Etymology Dictionary, last modified January 8, 2018, https://www.etymonline.com/word/coconut.
