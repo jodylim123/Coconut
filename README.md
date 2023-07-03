@@ -39,7 +39,7 @@ Coconut was a popular plantation crop in the 19th century and brought a consider
  <param ve-image 
        url="https://eservice.nlb.gov.sg/cms/image/e6f2d34e-da8c-42eb-958f-87b029ff3ef0.jpg"
        label="Tanglin coconut plantation, 1920" 
-       license="All rights reserved. Lee Kip Lin and National Library Board, Singapore 2009. (pending)"
+       attribution="All rights reserved. Lee Kip Lin and National Library Board, Singapore 2009. (pending)"
        fit="contain">   
        
 
@@ -52,13 +52,23 @@ Furthermore, it was immensely labour-intensive. Beyond “a European manager and
 <param ve-image 
        url="https://www.roots.gov.sg/CollectionImages/1168093.jpg"
        label="The coconut plantation on the east coast" 
-       license="National Museum of Singapore (Pending)"
+       attribution="National Museum of Singapore (Pending)"
        fit="contain">   
 
 In Singapore, harvested coconuts were also processed into products including copra, the dried kernel of the coconut from which coconut oil is extracted, which became an attractive export around 1870.  In an oral history interview by Mr Kannusamy s/o Pakirisamy, he shared that he grew up near a copra factory “at River Valley Road near Ord Road” and that there was also a copra and coconut oil factory at Mohamed Sultan Road in the 1920s.  He also shared that the owner was Chinese.  At the time of the interview in 1983, both factories had closed down.  
+<param ve-image 
+       url="https://www.nas.gov.sg/archivesonline/watermark/picas_data/tn_pcd/20050000002-0038-3202-0774/img0040.jpg"
+       label="Processing Copra, Singapore" 
+       attribution="National Archives of Singapore (Pending)"
+       fit="contain">   
+
 
 ## Coconut Oil: An Illuminating Utility
 Before 1864, coconut oil was the sole provider of light in the streets of Singapore.  It was used in lamps, which were made up of a bowl or a tumbler partly filled with water and topped up with coconut oil.  A cloth or pith wick was fixed in a star-shaped piece of tin with cork supports.  
+<param ve-image 
+       url="https://www.roots.gov.sg/CollectionImages/1059033.jpg"
+       title="Oil Lamps" 
+       attribution= "Collection of the Asian Civilisations Museum, National Heritage Board">
 
 So prevalent were these coconut oil lamps that the local people were amazed by the gas lamps unveiled at Queen Victoria’s birthday celebration. A letter written to England dated 30 May 1864 detailed their questions, such as “We don’t see the oil” and “Where is the wick?”  Indeed, coconut oil was integral in lighting up Singapore in a time before gas and electricity. Even after the advent of other forms of lighting, people once again turned to coconut oil lamps during the Japanese Occupation. 
 
