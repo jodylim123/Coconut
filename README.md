@@ -22,7 +22,7 @@ Almost every part of the coconut is eaten in Singapore. Coconut milk, a liquid e
        license="CC BY-SA 4.0"
        fit="contain">             
 
-Scientifically known as *Cocos nucifera*, the coconut is from the <span eid="Q14080">Arecaceae (Palmae) </span> family. [^1] “Cocos” comes from the Spanish and Portuguse “coco”, or grinning or grimacing face, which the three indents at the base of a coconut’s shell resemble. [^2] It was taxonomized in 1753 by Swedish botanist Carl Linnaeus. [^3] In Singapore, it is called *kelapa* in Malay and *ye zi* (椰子) or *ke ke ye zi* (可可椰子) in Chinese. [^4] It is a solitary coastal palm that is fast-growing and spans up to 30m in height. [^5] The coconut is native to the Western Pacific, but is considered naturalised in Singapore, where it can grow without human intervention. [^6] While coconuts likely arrived in Singapore long before the 19th century, coconut cultivation intensified during this period, significantly altering physical and economic landscapes.
+Scientifically known as *Cocos nucifera*, the coconut is from the <span eid="Q14080">Arecaceae (Palmae) </span> family.[^1] “Cocos” comes from the Spanish and Portuguse “coco”, or grinning or grimacing face, which the three indents at the base of a coconut’s shell resemble.[^2] It was taxonomized in 1753 by Swedish botanist Carl Linnaeus.[^3] In Singapore, it is called *kelapa* in Malay and *ye zi* (椰子) or *ke ke ye zi* (可可椰子) in Chinese.[^4] It is a solitary coastal palm that is fast-growing and spans up to 30m in height.[^5] The coconut is native to the Western Pacific, but is considered naturalised in Singapore, where it can grow without human intervention.[^6] While coconuts likely arrived in Singapore long before the 19th century, coconut cultivation intensified during this period, significantly altering physical and economic landscapes.
  <param ve-image 
        url="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Coconut_face_%282201055109%29.jpg/640px-Coconut_face_%282201055109%29.jpg"
        label="Coconut face" 
@@ -162,4 +162,5 @@ Others are selectable using icons displayed in the top right margin of the parag
 
 # References
 
-[^1]: Citation. Make sure you include the colon or this won't work!
+[^1]: “[Cocos nucifera](https://www.nparks.gov.sg/florafaunaweb/flora/5/6/5618),” NParks, last modified August 20, 2021.
+[^2]:  “Coconut,” Online Etymology Dictionary, last modified January 8, 2018, https://www.etymonline.com/word/coconut.
