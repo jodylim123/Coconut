@@ -126,20 +126,34 @@ One could use the grated coconut flesh directly, in foods like *ondeh ondeh*, *k
        url="https://upload.wikimedia.org/wikipedia/commons/2/28/The_making_of_coconut_milk_137_MKT_-_Instagram_Images_-_1080px_x_1080px6.jpg"
        title="Making Coconut Milk" 
        attribution="COYO Australia"
-       license="CC BY-SA 4.0">
+       license="CC BY-SA 4.0"
+	 fit = "contain">
 
 ## Breaking the Coconuts: A Hindu Marriage Tradition
 Beyond their culinary value, coconuts also figure into the history of Singaporean family life through their use in Hindu marriage ceremonies. The details and personal meanings of this practice are recorded in a number of oral history interviews at the National Archives of Singapore. 
+ <param ve-image 
+       url="https://upload.wikimedia.org/wikipedia/commons/9/90/Bride_and_groom_at_Sri_Senpaga_Vinayagar_temple.jpg"
+       title="Hindu Wedding at Sri Senpaga Vinayagar temple" 
+	description= "Bride and groom at Sri Senpaga Vinayagar temple"
+       attribution="Basile Morin"
+       license="CC BY-SA 4.0"
+	 fit = "contain">
 
-In an 8 April 1982 interview, Mr. S. C. Somasundram described the coconut breaking ceremony during a wedding. He stated “by breaking the coconut, we show to the world, the coconut is not very clean outside, when you break it, it is clean and white, the water inside is the blessing of the God. So we want to tell them: ‘This is the world.’” [^38]
 
-Mr. Somasundram also elaborated on the significance of the person breaking the coconut. They must be of “good appointment and status” and if the coconut breaks into half, it is considered a good omen. [^39] He shared how he broke the coconut for his nephew’s wedding in 1957, which broke into three pieces. He revealed that the bride-groom’s family had suffered from disputes and misfortunes. Mr. Somasundram believed that the coconut ceremony was one “that shows what kind of life, what kind of prosperity, what kind of health” a person can have. [^40]
+In an 8 April 1982 interview, Mr. S. C. Somasundram described the coconut breaking ceremony during a wedding. He stated “by breaking the coconut, we show to the world, the coconut is not very clean outside, when you break it, it is clean and white, the water inside is the blessing of the God. So we want to tell them: ‘This is the world.’” [^38] Mr. Somasundram also elaborated on the significance of the person breaking the coconut. They must be of “good appointment and status” and if the coconut breaks into half, it is considered a good omen. [^39] He shared how he broke the coconut for his nephew’s wedding in 1957, which broke into three pieces. He revealed that the bride-groom’s family had suffered from disputes and misfortunes. Mr. Somasundram believed that the coconut ceremony was one “that shows what kind of life, what kind of prosperity, what kind of health” a person can have. [^40]
+<param ve-image 
+       url="https://www.nas.gov.sg/archivesonline/watermark/picas_data/tn_pcd/PCD0389-EA16-11F2-3F10/img0006.jpg"
+       label="Thaipusam Procession Halting for the Priests to Perform Pooja - Breaking a Coconut and Burning Camphor as an offering to the Hindu Deity" 
+       attribution="National Archives of Singapore (Pending)"
+       fit="contain">   
+
+
 
 In a 12 September 1983 interview, Mr. Saravana Perumal said that the coconut breaking is symbolic of being “pure like a coconut” as the inside of a coconut is cleaner than its outer husk. [^41] He pointed out that traditionally five coconuts were broken in a wedding ceremony but this was no longer commonly practiced. [^42] Mr. Perumal adopted a more laissez faire attitude to the practice as his relatives “don’t follow certain rules and regulations made by the forefathers.” [^43]
 	
 Mrs. Guli Ramnani, a member of Singapore’s Sindhi community, shared another take on the coconut ceremony in her interview on 29 April 1985. In her experience, the groom would break a coconut after the main marriage ceremony. [^44] While the failure to break the coconut made the groom look weak or unlucky, she was not as particular about the specificities of the break as Mr. Somasundram. For her community, what was important was that “the boy sees to it that he breaks it”—"doesn’t have to be in the half.” [^45]
 	
-These oral accounts of the coconut ceremonies of Mr. Somasundram, Mr. Perumal, and Mrs. Ramnani, show how integral coconuts are to Hindu traditions in Singapore, with unique and meaningful variations across families and communities. 
+> These oral accounts of the coconut ceremonies of Mr. Somasundram, Mr. Perumal, and Mrs. Ramnani, show how integral coconuts are to Hindu traditions in Singapore, with unique and meaningful variations across families and communities. 
 
 ## Seeing the Whole Coconut
 Coconuts are ubiquitous in Singapore today—they appear in everything from your Mr Coconut drink to your nasi lemak lunch. Beyond its culinary fame, the fruit has played a distinct role in shaping Singapore’s cultural and physical landscapes. Coconuts have influenced Singapore’s land use, lit up the streets, and been eaten and broken for good luck. When you inevitably pick up your next coconut-containing foodstuff, spare a thought for its intriguing history!
