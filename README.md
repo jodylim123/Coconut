@@ -69,7 +69,7 @@ The coconut industry was a land-heavy one. In a 1914 article titled “The Cost 
        url="https://upload.wikimedia.org/wikipedia/commons/9/95/Coconut_fibre_rope.JPG"
        title="Coconut Fibre Rope" 
        attribution="StromBer"
-       license="Public Domain"
+       license="CC0"
 	 fit= "contain">
 
 Furthermore, it was immensely labour-intensive. Beyond “a European manager and assistant”, Brown recommended “a labour force of 180 to 200 coolies”, each working on five to six acres of land. [^17] Working in these plantations were people of all races – local Malay people, Chinese coolies, Indian labourers, and even Europeans who accepted low pay. [^18] [^19] Beyond the rich plantation owners, these coconut plantations could only run through the hard work of the labourers involved. 
