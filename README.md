@@ -55,7 +55,7 @@ These coastal coconut plantations were mainly owned by European and Chinese busi
 The coconut industry was a land-heavy one. In a 1914 article titled “The Cost of Making Copra”, Mr L. C. Brown, a retired Inspector of Coconut Plantations outlined the necessary acreage that a coconut plantation should have to be more profitable. He stated “in my opinion the only saving you can look for on an estate of 2,000 acres or more, compared with one of 500, lies in the coat per acre for supervision and buildings, for the general expense of fencing, draining, maintenance, weeding, picking and the manufacture of copra would practically remain the same. An estate of 5,000 acres, however, might cause the planter to produce sufficient to feed a factory to produce sufficient to feed a factory to turn out oil, coir, and even to make rope, from which sources additional profits might certainly be looked for.” [^16] Thus, coconut cultivation required a large amount of land to be successful and profitable. 
  <param ve-image 
        url="https://upload.wikimedia.org/wikipedia/commons/f/f3/Coconut_and_oil.jpg"
-       title="Coconut Oil" 
+       label="Coconut Oil" 
        attribution="Phu Thinh Co"
        license="CC BY-SA 2.0"
        fit= "contain">
