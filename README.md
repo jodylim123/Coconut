@@ -127,7 +127,7 @@ Zooming in from an industrial scale, families in Singapore had culinary tools to
        attribution= "Collection of National Museum of Singapore (pending)"
 	fit= "contain">
 
-One could use the grated coconut flesh directly, in foods like *ondeh ondeh*, *kueh dadar*, or *putu piring*. [^36] Alternatively, coconut milk could be derived by adding water to the grated flesh to extract the milk. Coconut milk is an essential in Malay dishes such as *nasi lemak*, *rendang* and *lontong*. [^37]
+One could use the grated coconut flesh directly, in foods like *ondeh ondeh*, <span eid="Q19725078">*kueh dadar*</span>, or <span eid="Q107209991">*kueh tutu*</span>. [^36] Alternatively, coconut milk could be derived by adding water to the grated flesh to extract the milk. Coconut milk is an essential in Malay dishes such as *nasi lemak*, and <span eid="Q1520293">*rendang*</span>. [^37]
  <param ve-image 
        url="https://upload.wikimedia.org/wikipedia/commons/2/28/The_making_of_coconut_milk_137_MKT_-_Instagram_Images_-_1080px_x_1080px6.jpg"
        title="Making Coconut Milk" 
@@ -160,7 +160,7 @@ In a 12 September 1983 interview, Mr. Saravana Perumal said that the coconut bre
        attribution="Singapore Tourism Board Collection, courtesy of National Archives of Singapore (Pending)"
        fit="contain">   
 	
-Mrs. Guli Ramnani, a member of Singapore’s Sindhi community, shared another take on the coconut ceremony in her interview on 29 April 1985. In her experience, the groom would break a coconut after the main marriage ceremony. [^44] While the failure to break the coconut made the groom look weak or unlucky, she was not as particular about the specificities of the break as Mr. Somasundram. For her community, what was important was that “the boy sees to it that he breaks it”—"doesn’t have to be in the half.” [^45]
+Mrs. Guli Ramnani, a member of Singapore’s <span eid="Q1258074">Sindhi</span> community, shared another take on the coconut ceremony in her interview on 29 April 1985. In her experience, the groom would break a coconut after the main marriage ceremony. [^44] While the failure to break the coconut made the groom look weak or unlucky, she was not as particular about the specificities of the break as Mr. Somasundram. For her community, what was important was that “the boy sees to it that he breaks it”—"doesn’t have to be in the half.” [^45]
  <param ve-image 
        url="https://www.nas.gov.sg/archivesonline/watermark/picas_data/tn_pcd/19980000484-6317-3042-0182/img0119.jpg"
        label="Prime Minister Lee Kuan Yew breaking a coconut in a Hindu ceremonial rite during his tour of Chua Chu Kang constituency" 
