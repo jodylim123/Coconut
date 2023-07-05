@@ -159,91 +159,56 @@ Mrs. Guli Ramnani, a member of Singapore’s Sindhi community, shared another ta
 Coconuts are ubiquitous in Singapore today—they appear in everything from your Mr Coconut drink to your nasi lemak lunch. Beyond its culinary fame, the fruit has played a distinct role in shaping Singapore’s cultural and physical landscapes. Coconuts have influenced Singapore’s land use, lit up the streets, and been eaten and broken for good luck. When you inevitably pick up your next coconut-containing foodstuff, spare a thought for its intriguing history!
 
 
-For reference, first open the [Juncture user guide](https://github.com/JSTOR-Labs/juncture/wiki/visual-essay-tags) in a new tab. Then, go ahead and enter your essay title in the "title" field above, and your name as you'd like it to appear in "author". For the banner image, you can pick anything you already have permissions to use. The image will be automatically scaled to fit the field (or you can crop/create an image 1200 by 400 pixels).
-
-## This is a quick Markdown tutorial. Two hashes precede a heading. You can use these headings to divide sections of your essay.
-
-*This makes things italics*. 
-<param ve-compare curtain manifest="https://iiif.juncture-digital.org/wc:Betel_Piper_betle.jpg/manifest.json" fit="contain">
-<param ve-compare manifest="https://iiif.juncture-digital.org/wc:Piper_betle_Blanco1.12.jpg/manifest.json" fit="contain">
-
-
-
-[This is how you add a link](https://www.juncture-digital.org/KatherineMEnright/speciesstories/)
-
-This is how you add a mouse-over information panel from Wiki data: <span eid="Q170662">Mangosteen</span>
-You can find the wikidata IDs by searching for proper nouns [here](https://www.wikidata.org/wiki/Wikidata:Main_Page). The ID is the series of digits following the letter Q.
-
-**There's no spell-check feature built in, so keep a careful eye out!**
-
-## Adding Images
-       
-You can use the QID tag within a sentence. For example: The <span eid="Q170662">mangosteen</span> is a non-native fruit found in Singapore. This a <span eid="Q121791">murder hornet</span>.
-<param ve-iframe src="https://digitalgems.nus.edu.sg/persistent/28a6afc5-5069-457a-a1e9-9a96b9ee2afc">
-
-This is the code you use to add an image. Make sure to **close the tag**. It starts with **<param ve-image** and ends with a closing **>**. Within these tags, you can add information to help the program locate and describe the image. **While these examples are images, we can also include textual sources (particularly primary sources) in the media viewer where appropriate.**
-<param ve-iframe
-       src="https://mhf.org.sg/wp-content/uploads/2022/10/CLS_09_Forgotten-Wisdom-of-Firasat-FA.pdf">
-       
-<span eid="Q271648">Marianne North</span> painted this painting of a 'Singapore monkey' amongst mangosteen fruits in 1875. You can also include "attribution" in the image information.
-<param ve-image 
-       url="https://d3d00swyhr67nd.cloudfront.net/w1200h1200/collection/LSW/RBGM/LSW_RBGM_MN_CD6_577-001.jpg"
-       title="Flowers and Fruit of the Mangosteen, and a Singapore Monkey" 
-       description="Held by Kew Gardens."
-       attribution="Marianne North"
-       license="CC BY-NC">
-       
-These are both examples of images added *from urls*. This is the preferred method. However, there might be some images you have to upload yourself. That's totally fine! Ideally, these files should be *as small as possible* and only .jpg or .png files will work. You should create a folder in your repository called "media" and upload the file there. Then, for the url, just copy and paste the item path: "media/{filename}.jpg". For more information on adding multiple images, comparisons, curtain sliders, and for how to zoom into particular sections of an image, check out the documentation [here](https://github.com/JSTOR-Labs/juncture/wiki/Visual-Essay-Image-Tag).
-<param ve-image 
-       url="media/victoria-crowned=pigeon.jpg"
-       title="Victoria crowned pigeon"
-       attribution="Katherine Enright">     
-## Map
-
-Mangosteens are found in Singapore. This takes a base map and sets the center to Singapore. The code after creates markers for different species, for instance, or to mark particular places on a map.
-<param ve-map center="1.35, 103.9" zoom="11">
-<param ve-map-marker
-       url="https://leafletjs.com/examples/custom-icons/leaf-green.png"
-       coords="1.3621, 103.8198"
-       size="38, 95"
-       iconAnchor="22, 94"
-       shadowUrl="https://leafletjs.com/examples/custom-icons/leaf-shadow.png"
-       shadowSize="50, 64">
-<param ve-map-marker
-url="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Pinz%C3%B3n_azul_de_Gran_Canaria_%28macho%29%2C_M._A._Pe%C3%B1a.jpg/220px-Pinz%C3%B3n_azul_de_Gran_Canaria_%28macho%29%2C_M._A._Pe%C3%B1a.jpg"
-       coords="1.4126, 103.9577"
-       size="129, 170"
-       circle="true">
-    
-    
-You can create custom regions just by drawing shapes (no coding needed) using [geojson.io](https://geojson.io/#map=2/0/20). Then you can download the shape file and add it to your juncture media file as a map layer. Let's imagine this is the distribution range of your species.
-
-<param ve-map center="1.35, 103.9" zoom="2">
-<param ve-map-layer geojson url="/media/demomap.geojson" title="Sample Distribution"> 
-
-## Add a YouTube Video
-You can take the id from the YouTube URL. You can also define the start time with start="0:20" (for instance).
-<param ve-video id="5upF4rJUxC4" title="NYBG 2019 Corpse Flower Timelapse">
-
-## Add a Timeline
-This uses the [Knightlab platform](https://timeline.knightlab.com/). The back-end, for you to use, will just be a googlesheets (so it's user friendly!). Here's an example:
-<param ve-knightlab-timeline source="1T9E8QZRT7ZFFmb55uLpJUSnELKuqSsXlLmNuVXvOC_I" timenav-position="bottom" hash-bookmark="false" initial-zoom="1" height="640">
-
-
-## Multiple viewers
-
-Multiple viewers may be defined for a single paragraph of text.  The first viewer defined is displayed as the default viewer.  
-Others are selectable using icons displayed in the top right margin of the paragraph.
-<param ve-image 
-       url="https://iiif.wellcomecollection.org/image/V0044770/full/1338%2C/0/default.jpg"
-       title="Mangosteen Photograph" 
-       description="A mangosteen plant (Garcinia mangostana): fruiting branch and halved fruit. Photograph. Wellcome Collection.">
-<param ve-map center="Q334" zoom="11" prefer-geojson>
-
 # References
 [^1]: “Cocos nucifera,” NParks, last modified August 20, 2021, https://www.nparks.gov.sg/florafaunaweb/flora/5/6/5618.
 [^2]:  “Coconut,” Online Etymology Dictionary, last modified January 8, 2018, https://www.etymonline.com/word/coconut.
-[^3]: Caetano Xavier Furtado, “The Origin of the Word “Cocos”,” The Gardens’ Bulletin Singapore Vol. XX, Part I (January 31, 1963): 311, https://www.biodiversitylibrary.org/page/43684850.
+[^3]: Caetano Xavier Furtado, “The Origin of the Word “Cocos”,” *The Gardens’ Bulletin Singapore* Vol. XX, Part I (January 31, 1963): 311, https://www.biodiversitylibrary.org/page/43684850.
 [^4]: NParks, “Cocos nucifera.”
 [^5]: NParks, “Cocos nucifera.”
+[^6]: Yan Chong Kwek, Hugh T. W. Tan, and Richard T. Corlett, *A Checklist of the Total Vascular Plant Flora of Singapore: Native, Naturalised and Cultivated Species* (Singapore: Raffles Museum of Biodiversity Research, 2009), 27, https://lkcnhm.nus.edu.sg/wp-content/uploads/sites/10/app/uploads/2017/04/flora_of_singapore_tc.pdf.
+[^7]: Walter Makepeace, Gilbert E. Brooke, and Roland ST. J. Braddell, *One Hundred Years of Singapore* (London: John Murray, Albermarle Street, W., 1921), 70, https://archive.org/details/onehundredyearso02braduoft/page/70/mode/2up?q=1849.
+[^8]: Warren Bailey, and Lan Truong, “Opium and Empire: Some Evidence from Colonial-Era Asian Stock and Commodity Markets,” *Journal of Southeast Asian Studies* 32, no. 2 (2001): 180, http://www.jstor.org/stable/20072323.
+[^9]: Makepeace, Brooke, and Braddell, *One Hundred Years*, 68. 
+[^10]: Richard T. Corlett, “The Ecological Transformation of Singapore, 1819-1990.” *Journal of Biogeography* 19, no. 4 (1992): 413. https://doi.org/10.2307/2845569.
+[^11]: Makepeace, Brooke, and Braddell, *One Hundred Years*, 82.
+[^12]: Victor R. Savage and Brenda S. A. Yeoh, *Singapore Street Names: A Study of Toponymics* (Singapore: Marshall Cavendish Editions, 2013), 515-6, National Library Board Singapore Libby.
+[^13]: Makepeace, Brooke, and Braddell, *One Hundred Years*, 443
+[^14]: Savage, and Yeoh, *Toponymics*, 364.
+[^15]: Makepeace, Brooke, and Braddell, *One Hundred Years*, 444.
+[^16]: “The Cost of Making Copra,” *Straits Echo*, February 13 1914, https://eresources.nlb.gov.sg/newspapers/digitised/article/straitsecho19140213-1.2.46?qt=coconut&q=coconut.
+[^17]: “Making Copra.” 
+[^18]: “The coconut plantation on the east coast,” Roots, accessed June 30 2023, https://www.roots.gov.sg/Collection-Landing/listing/1168093.
+[^19]: “Page 13 Advertisements Column 2,” *Malaya Tribune*, March 21, 1940, https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19400321-1.2.96.2?qt=copra,%20factory,%20worker&q=copra%20factory%20worker.
+[^20]: Bailey, and Truong, “Opium and Empire,” 180.
+[^21]: Kannusamy s/o Pakirisamy, Reel/Disc 6 of 28, Interview Transcript, Pg 91, https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/df540b8c-115d-11e3-83d5-0050568939ad?keywords=kannusamy&keywords-type=all.
+[^22]: Kannusamy, Interview Transcript, pg 91.
+[^23]: Kannusamy, Interview Transcript, pg 91.
+[^24]: Makepeace, Brooke, and Braddell, *One Hundred Years*, 511.
+[^25]: Makepeace, Brooke, and Braddell, *One Hundred Years*, 511-2. 
+[^26]: Makepeace, Brooke, and Braddell, *One Hundred Years*, 512.
+[^27]: Makepeace, Brooke, and Braddell, *One Hundred Years*, 512.
+[^28]: “Oil lamps,” Roots, accessed June 15, 2023, https://www.roots.gov.sg/Collection-Landing/listing/1059033.
+[^29]: Makepeace, Brooke, and Braddell, *One Hundred Years*, 558.
+[^30]: Makepeace, Brooke, and Braddell, *One Hundred Years*, 558.
+[^31]: “Wooden step-foot coconut rasp,” Roots, accessed June 15, 2023, https://www.roots.gov.sg/Collection-Landing/listing/1073351.
+[^32]: “Kukuran Kelapa,” Museum of Asian Art, last modified February 26, 2022, https://museum.um.edu.my/kukuran-kelapa
+[^33]: Roots, “Wooden step-foot coconut rasp.”
+[^34]: Roots, “Wooden step-foot coconut rasp.”
+[^35]: “Coconut Grater Stool,” Atlas Obscura, accessed June 15, 2023, https://www.atlasobscura.com/foods/coconut-grater-stool.
+[^36]: “Coconut in Malay cuisine: How it is used in popular delicacies,” *Asia One*, July 28, 2020, https://www.asiaone.com/lifestyle/coconut-malay-cuisine-how-it-used-popular-delicacies.
+[^37]: Asia One, “Malay cuisine.” 
+[^38]: S. C. Somasundram, Reel/ Disc 8 of 11, Interview Transcript, pg 98, https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/e09bc1fb-115d-11e3-83d5-0050568939ad?keywords=coconut&keywords-type=all.
+[^39]: Somasundram, Interview Transcript, 98. 
+[^40]: Somasundram, Interview Transcipt, 99.
+[^41]: Saravana Perumal, Reel/ Disc 2 of 17, Interview Transcript, pg 16, https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/e2ad6fe9-115d-11e3-83d5-0050568939ad?keywords=coconut&keywords-type=all.
+[^42]: Perumal, Interview Transcript, pg 17. 
+[^43]: Perumal, Interview Transcript, pg 18.
+[^44]: Guli Ramnani, Reel/ Disc 4 of 18, Interview Transcript, pg 40, https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/819af17e-115f-11e3-83d5-0050568939ad?keywords=coconut&keywords-type=all.
+[^45]: Ramnani, Interview Transcript, pg 40. 
+
+
+
+
+
+
 
