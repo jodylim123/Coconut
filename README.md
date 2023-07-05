@@ -61,7 +61,7 @@ The coconut industry was a land-heavy one. In a 1914 article titled “The Cost 
        fit= "contain">
  <param ve-image 
        url="https://upload.wikimedia.org/wikipedia/commons/7/77/Textielmuseum-cabinet-10.jpg"
-       title="Coconut Coir" 
+       label="Coconut Coir" 
        attribution="Textielmuseum Tilburg"
        license="CC BY-SA 4.0"
 	 fit= "contain">
