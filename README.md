@@ -8,30 +8,36 @@
 Almost every part of the coconut is eaten in Singapore. Coconut milk, a liquid extracted from grated flesh of mature coconuts, is used in cooking <span eid="Q1420553">*nasi lemak*</span> and <span eid="Q4208242">*sayur lodeh*</span>. <span eid="Q30587639">*Gula melaka*</span>, made from boiling coconut flower sap, flavours many peranakan kueh, like <span eid="Q5262436">*ondeh ondeh* </span>.  In hawker centres, one can easily buy a whole coconut to drink its refreshing coconut water. Beyond just its culinary uses, coconuts have floated alongside Singapore’s history for a long time. 
 <param ve-image 
   url="https://upload.wikimedia.org/wikipedia/commons/d/d0/Nasi_lemak_on_banana_leaf.jpg"
-       label="Nasi lemak on banana leaf" 
+       label="Nasi lemak" 
+	description= "Nasi lemak on banana leaf"
        license="CC BY-SA 4.0"
+	attribution = "Jpatokal"
        fit="contain">
  <param ve-image 
        url="https://upload.wikimedia.org/wikipedia/commons/8/8f/Lodeh.jpg"
        label="Sayur lodeh" 
+	 attribution= "iNews"
        license="CC BY-SA 4.0"
        fit="contain">
  <param ve-image 
        url="https://upload.wikimedia.org/wikipedia/commons/f/f1/Klepon_Side_View.jpg"
        label="Ondeh ondeh" 
        license="CC BY-SA 4.0"
+	 attribution="Joseagush"
        fit="contain">             
 
 Scientifically known as *Cocos nucifera*, the coconut is from the <span eid="Q14080">Arecaceae (Palmae) </span> family. [^1] “Cocos” comes from the Spanish and Portuguse “coco”, or grinning or grimacing face, which the three indents at the base of a coconut’s shell resemble. [^2] It was taxonomized in 1753 by Swedish botanist Carl Linnaeus. [^3] In Singapore, it is called *kelapa* in Malay and *ye zi* (椰子) or *ke ke ye zi* (可可椰子) in Chinese. [^4] It is a solitary coastal palm that is fast-growing and spans up to 30m in height. [^5] The coconut is native to the Western Pacific, but is considered naturalised in Singapore, where it can grow without human intervention.[^6] While coconuts likely arrived in Singapore long before the 19th century, coconut cultivation intensified during this period, significantly altering physical and economic landscapes.
  <param ve-image 
        url="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Coconut_face_%282201055109%29.jpg/640px-Coconut_face_%282201055109%29.jpg"
        label="Coconut face" 
+	 attribution= "tree-species"
        license="CC BY 2.0"
        fit="contain">    
  <param ve-image 
        url="https://upload.wikimedia.org/wikipedia/commons/3/32/Cocos_nucifera_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-187.jpg"
        label="Cocos nucifera" 
-       license="Public Domain"
+	 attribution= "Franz Eugen Köhler, Köhler's Medizinal-Pflanzen"
+       license="CC0"
        fit="contain">   
 
 ## Taking Root: A Coastal Plantation Crop
@@ -143,21 +149,34 @@ Beyond their culinary value, coconuts also figure into the history of Singaporea
 In an 8 April 1982 interview, Mr. S. C. Somasundram described the coconut breaking ceremony during a wedding. He stated “by breaking the coconut, we show to the world, the coconut is not very clean outside, when you break it, it is clean and white, the water inside is the blessing of the God. So we want to tell them: ‘This is the world.’” [^38] Mr. Somasundram also elaborated on the significance of the person breaking the coconut. They must be of “good appointment and status” and if the coconut breaks into half, it is considered a good omen. [^39] He shared how he broke the coconut for his nephew’s wedding in 1957, which broke into three pieces. He revealed that the bride-groom’s family had suffered from disputes and misfortunes. Mr. Somasundram believed that the coconut ceremony was one “that shows what kind of life, what kind of prosperity, what kind of health” a person can have. [^40]
 <param ve-image 
        url="https://www.nas.gov.sg/archivesonline/watermark/picas_data/tn_pcd/PCD0389-EA16-11F2-3F10/img0006.jpg"
-       label="Thaipusam Procession Halting for the Priests to Perform Pooja - Breaking a Coconut and Burning Camphor as an offering to the Hindu Deity" 
+       label="Thaipusam procession halting for the priests to perform Pooja - Breaking a coconut and burning camphor as an offering to the Hindu Deity" 
        attribution="National Archives of Singapore (Pending)"
        fit="contain">   
 
-
-
 In a 12 September 1983 interview, Mr. Saravana Perumal said that the coconut breaking is symbolic of being “pure like a coconut” as the inside of a coconut is cleaner than its outer husk. [^41] He pointed out that traditionally five coconuts were broken in a wedding ceremony but this was no longer commonly practiced. [^42] Mr. Perumal adopted a more laissez faire attitude to the practice as his relatives “don’t follow certain rules and regulations made by the forefathers.” [^43]
+ <param ve-image 
+       url="https://www.nas.gov.sg/archivesonline/watermark/picas_data/tn_pcd/19980006575-8105-3181-0783/img0031.jpg"
+       label="Indian Priest breaking coconut during Navarathiri Festival at Sri Mariamman Temple, South Bridge Road" 
+       attribution="Singapore Tourism Board Collection, courtesy of National Archives of Singapore (Pending)"
+       fit="contain">   
 	
 Mrs. Guli Ramnani, a member of Singapore’s Sindhi community, shared another take on the coconut ceremony in her interview on 29 April 1985. In her experience, the groom would break a coconut after the main marriage ceremony. [^44] While the failure to break the coconut made the groom look weak or unlucky, she was not as particular about the specificities of the break as Mr. Somasundram. For her community, what was important was that “the boy sees to it that he breaks it”—"doesn’t have to be in the half.” [^45]
+ <param ve-image 
+       url="https://www.nas.gov.sg/archivesonline/watermark/picas_data/tn_pcd/19980000484-6317-3042-0182/img0119.jpg"
+       label="Prime Minister Lee Kuan Yew breaking a coconut in a Hindu ceremonial rite during his tour of Chua Chu Kang constituency" 
+       attribution="Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore (Pending)"
+       fit="contain">   
 	
 > These oral accounts of the coconut ceremonies of Mr. Somasundram, Mr. Perumal, and Mrs. Ramnani, show how integral coconuts are to Hindu traditions in Singapore, with unique and meaningful variations across families and communities. 
 
 ## Seeing the Whole Coconut
 Coconuts are ubiquitous in Singapore today—they appear in everything from your Mr Coconut drink to your nasi lemak lunch. Beyond its culinary fame, the fruit has played a distinct role in shaping Singapore’s cultural and physical landscapes. Coconuts have influenced Singapore’s land use, lit up the streets, and been eaten and broken for good luck. When you inevitably pick up your next coconut-containing foodstuff, spare a thought for its intriguing history!
-
+ <param ve-image 
+       url="https://upload.wikimedia.org/wikipedia/commons/b/bb/Siloso_Beach_9%2C_Sentosa%2C_Aug_06.JPG"
+       label="Coconut Trees on Silso Beach" 
+	attribution= "Sengkang"
+       license="CC0"
+       fit="contain">   
 
 # References
 [^1]: “Cocos nucifera,” NParks, last modified August 20, 2021, https://www.nparks.gov.sg/florafaunaweb/flora/5/6/5618.
