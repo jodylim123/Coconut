@@ -67,7 +67,7 @@ The coconut industry was a land-heavy one. In a 1914 article titled “The Cost 
 	 fit= "contain">
  <param ve-image 
        url="https://upload.wikimedia.org/wikipedia/commons/9/95/Coconut_fibre_rope.JPG"
-       title="Coconut Fibre Rope" 
+       label="Coconut Fibre Rope" 
        attribution="StromBer"
        license="CC0"
 	 fit= "contain">
